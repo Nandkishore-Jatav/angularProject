@@ -1,3 +1,7 @@
 number add
 icons add karna hai 
 features add
+
+video call 
+phone call 
+hello calls
